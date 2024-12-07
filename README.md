@@ -46,5 +46,5 @@ TIM3 (PWM for LED2)
 ### Build
 ![](./ref/build.gif)
 
-### Usage [Renode]
+### Usage
 ![123](./ref/usage.gif)
